@@ -28,7 +28,12 @@
 <p><span style="font-weight: 400;">Видим в VirtualBox, что ВМ установлена и запущена:</span></p>
 <img width="1098" height="541" alt="image" src="https://github.com/user-attachments/assets/090dd81d-e95c-4875-b016-0a9d261cef95" />
 <p align="left">&nbsp;</p>
-
+<h4><strong>Обновление ядра</strong></h4>
+<p><span style="font-weight: 400;">Подключаемся по ssh к созданной виртуальной машины. Для этого в каталоге с нашим Vagrantfile вводим команду </span><span style="font-weight: 400;">vagrant ssh</span></p>
+<p><span style="font-weight: 400;">Перед работами проверим текущую версию ядра:</span></p>
+<img width="517" height="103" alt="image" src="https://github.com/user-attachments/assets/e2eb1d02-7d9d-4233-8c36-26a639c26d69" />
+<p align="left">&nbsp;</p>
+<h4>4.18.0-240.1.1.el8_3.x86_64</h4>
 
 
 
